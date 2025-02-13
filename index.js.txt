@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>Page web</title>
+	</head>
+	<body>
+		<h1>Titulo</h1>
+		<p>Loren ipso lotren npson</p>
+		
+		<section>
+			<h2>Perros de la calle</h2>
+			<p>Esta sección trata de perros de 			la calle</p>
+		</section>
+	</body>
+</html>
