@@ -10,5 +10,13 @@
 			<h2>Perros de la calle</h2>
 			<p>Esta sección trata de perros de 			la calle</p>
 		</section>
+		<footer>
+			<p>Parte final de la página</p>
+			<ul>
+				<li>Facebook</li>
+				<li>Instagram</li>
+				<li>Google</li>
+			</ul>
+		</footer>
 	</body>
 </html>
