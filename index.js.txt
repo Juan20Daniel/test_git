@@ -10,6 +10,10 @@
 			<h2>Perros de la calle</h2>
 			<p>Esta sección trata de perros de 			la calle</p>
 		</section>
+		<section>
+			<h2>Gatos de la calle</h2>
+			<p>Esta sección trata de gatos de la calle</p>
+		</section>
 		<footer>
 			<p>Parte final de la página</p>
 			<ul>
