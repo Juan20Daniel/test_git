@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>Page web</title>
+	</head>
+	<body>
+		<h1>Products</h1>
+		<ul>
+			<li>Zapatos</li>
+			<li>Teléfonos</li>
+			<li>Laptops</li>
+			<li>Pantalones</li>
+			<li>Gorras</li>
+		</ul>	
+	</body>
+</html>
